@@ -7,7 +7,7 @@ def display_board(board)
   puts "-----------"
   puts(" #{board[8]}" + '|' + " #{board[7]}" + '|' + " #{board[8]}")
 end
-display_board
+
 
 
 # Define display_board that accepts a board and prints
